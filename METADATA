@@ -1,19 +1,3 @@
-name: "pyopenssl"
-description: "A Python wrapper around the OpenSSL library"
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://pyopenssl.org/en/stable/"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/pyca/pyopenssl"
-  }
-  version: "20.0.1"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 12
-    day: 15
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:99a46eb1ae014a9bacf682b993531da309bce576d27848f2b07cddbac32dcc57
+size 353
